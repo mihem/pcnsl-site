@@ -7,18 +7,18 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Welcome to the <br> Neuro-COVID dataset.
+      title: Welcome to the <br> PCNSL dataset.
       image:
-        filename: covid_scheme.jpg
+        filename: manuscript_scheme.png
       text:
 
   - block: markdown
     content:
       title:
       text: |
-        This is the corresponding website to the publication [Neurological Manifestations of COVID-19 Feature T Cell Exhaustion and Dedifferentiated Monocytes in Cerebrospinal Fluid](https://doi.org/10.1016/j.immuni.2020.12.011) by Heming et al., *Immunity* 2021.
-        We present a single cell sequencing dataset of cerebrospinal fluid of patients suffering from COVID-19 with neurological manifestations.
-        The raw sequencing are available via [GEO GSE163005](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE163005).
+        This is the corresponding website to the publication [Intratumor heterogeneity and T cell exhaustion in primary CNS lymphoma](https://doi.org/10.1186/s13073-022-01110-1) by Heming et al., *Genome Medicine* 2022.
+        We present single cell RNA-sequencing data of biopsy fluid, blood and CSF from patients with primary CNS B cell lymphoma.
+        The raw sequencing are available via [GEO GSE203552](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE203552).
 
   - block: collection
     id: datasets
