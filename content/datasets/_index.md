@@ -1,5 +1,5 @@
 ---
-title: Datasets
+title: Dataset
 
 # Listing view
 view: compact
